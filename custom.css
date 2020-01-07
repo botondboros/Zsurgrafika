@@ -580,15 +580,15 @@ footer.footer{
 	padding: 50px 0 10px;
 }
 
-.section-title h2{
+.section-title{
 	margin-top: 30px;
-	margin-left: 60px;
+	margin-left: 30px;
 	margin-bottom: 60px;
 }
 
 .section-title h2{
 	font-size: 35px;
-	color: #ec0e58;
+	color: #f34949;
 	position: relative;
 	padding-bottom: 15px;
 	letter-spacing: -0.02em;
